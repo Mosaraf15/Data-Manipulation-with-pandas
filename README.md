@@ -18,3 +18,18 @@
 3. Subsetting row
 4. Subsetting rows by categorical variables **|, .isin()**
 - **Adding new columns**
+## 02 Aggregating DataFrames.ipynb
+- **Summary Statistics**
+  1. Mean and median
+  2. Summarizing
+  3. Efficient summaries
+  4. Cumulative statistics
+  5. Dropping duplicates
+- **Counting**
+  1. Counting categorical variables
+- **Grouped summary statistics**
+  1. Calculations with .groupby()
+  2. Multiple grouped summaries
+- **Pivot tables**
+  1. Pivoting on one variable
+  2. Fill in missing values and sum values with pivot tables
